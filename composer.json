@@ -18,7 +18,7 @@
         }
     },
     "require": {
-        "silex/silex": "v1.1.2",
+        "silex/silex": "*",
         "behat/gherkin": "*",
         "symfony/finder": "2.*",
         "symfony/dependency-injection": "2.*",
