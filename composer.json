@@ -19,14 +19,14 @@
     },
     "require": {
         "silex/silex": "v1.1.2",
-        "behat/gherkin": "v2.3",
+        "behat/gherkin": "*",
         "symfony/finder": "2.*",
         "symfony/dependency-injection": "2.*",
         "twig/twig": "*",
         "symfony/twig-bridge":  "2.*",
         "behat/behat": "*",
-        "twig/extensions": "v1.0.1",
-        "symfony/icu": "v1.2.0",
+        "twig/extensions": "*",
+        "symfony/icu": "*",
         "symfony/serializer": "2.*",
         "symfony/console": "2.*"
     },
